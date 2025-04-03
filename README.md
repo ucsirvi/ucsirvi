@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ucsirvi" alt="ucsirvi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@umeshsirvi23" target="blank"><img src="https://img.shields.io/twitter/follow/@umeshsirvi23?logo=twitter&style=for-the-badge" alt="@umeshsirvi23" /></a> </p>
+<p align="left"> <a href="https://twitter.com/umeshsirvi23" target="blank"><img src="https://img.shields.io/twitter/follow/umeshsirvi23?logo=twitter&style=for-the-badge" alt="umeshsirvi23" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Development(MERN)**
 
@@ -15,6 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ucsirvi](https://github.com/ucsirvi)
 
+- 📝 Visit My Portfolio [https://portfolio-ucsirviprojects.vercel.app/](https://portfolio-ucsirviprojects.vercel.app/)
+
 - 📫 How to reach me **umeshchoudhary.dev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11z6SzQVmTEfHUdBgWbTdjUsnnvzL-dns/view?usp=sharing](https://drive.google.com/file/d/11z6SzQVmTEfHUdBgWbTdjUsnnvzL-dns/view?usp=sharing)
@@ -23,9 +25,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@umeshsirvi23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@umeshsirvi23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umesh choudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh choudhary" height="30" width="40" /></a>
+<a href="https://twitter.com/umeshsirvi23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umeshsirvi23" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/umeshchoudhary23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umeshchoudhary23" height="30" width="40" /></a>
 <a href="https://codesandbox.com/umeshchoudharywork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="umeshchoudharywork" height="30" width="40" /></a>
+<a href="https://instagram.com/umesh_choudhary23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umesh_choudhary23" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@umeshchoudhary02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@umeshchoudhary02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/umeshchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="umeshchoudhary" height="30" width="40" /></a>
 </p>
